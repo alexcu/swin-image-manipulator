@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImageNormaliser", "ImageNormaliser\ImageNormaliser.csproj", "{37ED475E-527A-461E-AC70-627C131C0006}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConcurrencyUtils", "..\ConcurrencyUtils\ConcurrencyUtils\ConcurrencyUtils\ConcurrencyUtils.csproj", "{CF2A4A6B-7956-4061-BB11-C6BE700DE801}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{37ED475E-527A-461E-AC70-627C131C0006}.Debug|x86.ActiveCfg = Debug|x86
+		{37ED475E-527A-461E-AC70-627C131C0006}.Debug|x86.Build.0 = Debug|x86
+		{37ED475E-527A-461E-AC70-627C131C0006}.Release|x86.ActiveCfg = Release|x86
+		{37ED475E-527A-461E-AC70-627C131C0006}.Release|x86.Build.0 = Release|x86
+		{CF2A4A6B-7956-4061-BB11-C6BE700DE801}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{CF2A4A6B-7956-4061-BB11-C6BE700DE801}.Debug|x86.Build.0 = Debug|Any CPU
+		{CF2A4A6B-7956-4061-BB11-C6BE700DE801}.Release|x86.ActiveCfg = Release|Any CPU
+		{CF2A4A6B-7956-4061-BB11-C6BE700DE801}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = ImageNormaliser\ImageNormaliser.csproj
+	EndGlobalSection
+EndGlobal

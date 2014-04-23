@@ -1,0 +1,7 @@
+/Users/Alex/Dropbox/Swinburne/COS30003 - ADN/Portfolio/Projects/ImageNormaliser/ImageNormaliser/obj/x86/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/Users/Alex/Dropbox/Swinburne/COS30003 - ADN/Portfolio/Projects/ImageNormaliser/ImageNormaliser/bin/Debug/ImageNormaliser.exe.mdb
+/Users/Alex/Dropbox/Swinburne/COS30003 - ADN/Portfolio/Projects/ImageNormaliser/ImageNormaliser/bin/Debug/ImageNormaliser.exe
+/Users/Alex/Dropbox/Swinburne/COS30003 - ADN/Portfolio/Projects/ImageNormaliser/ImageNormaliser/obj/x86/Debug/ImageNormaliser.exe
+/Users/Alex/Dropbox/Swinburne/COS30003 - ADN/Portfolio/Projects/ImageNormaliser/ImageNormaliser/obj/x86/Debug/ImageNormaliser.exe.mdb
+/Users/Alex/Dropbox/Swinburne/COS30003 - ADN/Portfolio/Projects/ImageNormaliser/ImageNormaliser/bin/Debug/ConcurrencyUtils.dll
+/Users/Alex/Dropbox/Swinburne/COS30003 - ADN/Portfolio/Projects/ImageNormaliser/ImageNormaliser/bin/Debug/ConcurrencyUtils.dll.mdb
